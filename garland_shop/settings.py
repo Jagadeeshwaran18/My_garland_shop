@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-*=-y^w8glgp&4fc+9^lt&*2sjxmu5qb+$m+3s1&$g$032vm)gn
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['bbjm-garland-shop.onrender.com']
+ALLOWED_HOSTS = ["bbjm-garlands-shop.onrender.com","127.0.0.1","localhost",]
 
 
 # Application definition
